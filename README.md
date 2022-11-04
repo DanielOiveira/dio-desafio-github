@@ -16,7 +16,7 @@
 ![todo-list](https://user-images.githubusercontent.com/62570374/182043122-ca8234a0-0453-4ed3-bded-159d56d3a51f.gif)
 
 
-### BookStore - Projeto para estudo do Frameowrk Angular 
+### BookStore - Projeto para estudo do Framework Angular 
 ![bookstore](https://user-images.githubusercontent.com/62570374/182043149-d7b6b809-0ca9-4700-9def-dca20b2d467a.gif)
 
 
